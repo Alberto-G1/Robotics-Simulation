@@ -1,0 +1,16 @@
+Webots Project File version R2021b
+perspectives: 000000ff00000000fd000000020000000100000366000002bffc0200000001fb0000001400540065007800740045006400690074006f0072010000001a000002bf0000008700ffffff00000003000007810000012bfc0100000001fb0000001a0043006f006e0073006f006c00650041006c006c0041006c006c0100000000000007810000006900ffffff00000419000002bf00000001000000020000000100000008fc00000000
+simulationViewPerspectives: 000000ff000000010000000200000100000005630100000002010000000100
+sceneTreePerspectives: 000000ff0000000100000002000000c0000000fa0100000002010000000200
+maximizedDockId: -1
+centralWidgetVisible: 1
+orthographicViewHeight: 1
+textFiles: 0 "controllers/autonomous_mavic/autonomous_mavic.py"
+consoles: Console:All:All
+renderingDevicePerspectives: Mavic 2 PRO(2):camera;1;0.675;0.123457;0
+renderingDevicePerspectives: Mavic 2 PRO:camera;1;0.78;0;0
+renderingDevicePerspectives: Spot:left flank camera;0;0.732407;0;0
+renderingDevicePerspectives: Spot:left head camera;0;0.732407;0;0
+renderingDevicePerspectives: Spot:rear camera;0;0.181944;0;0
+renderingDevicePerspectives: Spot:right flank camera;0;0.180556;0;0
+renderingDevicePerspectives: Spot:right head camera;0;0.177778;0;0
